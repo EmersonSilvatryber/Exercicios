@@ -1,8 +1,5 @@
-<style>
-
 h1 {
     text-align: center;
-    font-family: cursive;
 }
 
 .first {
@@ -19,6 +16,7 @@ h1 {
     height: 50px;
     text-align: center;
     width: 300px;
+    display: inline-block;
 }
 
 .third {
@@ -27,6 +25,18 @@ h1 {
     height: 50px;
     text-align: center;
     width: 300px;
+    display: inline-block;
 }
 
-</style>
+li {
+    display: inline-block;
+}
+
+h3 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
